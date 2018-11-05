@@ -1,2 +1,2 @@
 # Hatchchat
-Minimalist iOS group chat app
+iOS group chat app
