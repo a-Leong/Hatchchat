@@ -1,2 +1,2 @@
 # Hatchchat
-iOS group chat app
+An iOS group chat app utilizing Google's Firebase realtime database service.
